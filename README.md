@@ -2,7 +2,7 @@
 
 A sleek and responsive calculator built with React and Tailwind CSS, inspired by a Frontend Mentor challenge. This app offers a user-friendly interface with multiple themes and supports basic arithmetic operations.
 
-![Calculator App Preview](images/preview.png)
+![Calculator App Preview](design/desktop-preview.jpg)
 
 ## 🚀 Live Demo
 
